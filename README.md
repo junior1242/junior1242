@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @junior1242
-- 👀 I’m  in web development and Cpp
-- 🌱 I’m currently learning REACT library
+- 👀 I’m a web developer
+- 🌱 I’m currently learning REACT library and tailwind
 
 <!---
 junior1242/junior1242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
