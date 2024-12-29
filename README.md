@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @junior1242
+# 👋 Hi, I’m @junior1242
 - 👀 I’m a web developer
 - 🌱 I’m currently learning React and TailWind
 
