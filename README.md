@@ -20,16 +20,3 @@ Welcome to my GitHub profile! Here's a quick overview of my skills and interests
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React Native" alt="React Native" width="50" height="50"/>
 </p>
-
-
-
-
-
-
-## 📫 Let's Connect!
-
-<p align="center">
-  
-  <a href="mailto:shahid68491@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
-  <a href="https://github.com/junior1242" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
-</p>
