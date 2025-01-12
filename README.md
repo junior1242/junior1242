@@ -1,9 +1,35 @@
-# 👋 Hi, I’m @junior1242
-- 👀 I’m a web developer
-- 🌱 I’m currently learning React and Tailwind
-  
+# Hi there, I'm Junior1242! 👋
 
-<!---
-junior1242/junior1242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! Here's a quick overview of my skills and interests:
+
+---
+## 🌟 About Me
+
+- 💻 I'm a passionate **IT student** with a keen interest in web and mobile development.
+- 🌱 Currently learning advanced JavaScript and exploring game development.
+- 🎓 Final-year project: [Truck Loading System](#)
+
+---
+## 🔧 Technologies & Tools
+
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React Native" alt="React Native" width="50" height="50"/>
+</p>
+
+
+
+
+
+
+## 📫 Let's Connect!
+
+<p align="center">
+  
+  <a href="mailto:shahid68491@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
+  <a href="https://github.com/junior1242" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
+</p>
