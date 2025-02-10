@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's a quick overview of my skills and interests
 
 - 💻 I'm a passionate **IT student** with a keen interest in web and mobile development.
 - 🌱 Currently learning advanced JavaScript and exploring BackEnd.
-- 🎓 Final-year project: [Truck Loading System](#)
+- 🎓 Final-year project: [Truck Booking System](#)
 
 ---
 ## 🔧 Technologies & Tools
