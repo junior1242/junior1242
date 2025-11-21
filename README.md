@@ -9,7 +9,6 @@ Welcome to my GitHub profile! Here's a quick overview of my skills and interests
 - 🌱 Currently learning advanced JavaScript and exploring BackEnd.
 - 🔥 Now I am working with [**Nextash**](https://nextash.com/) and learning **Frappe Framework** and **ERPNext**
 
-
 ---
 ## 🔧 Technologies & Tools
 
